@@ -1,5 +1,13 @@
-### Hi there 👋
+### Hi there
 
+I'm Max, a student developer from Sussex UK.
+
+My most compitent langage is python but im also learning:
+* Golang
+* Rust
+* C
+
+You can find my blog at [manfromth3m0on.xyz](https://manfromth3m0on.xyz) or email me [here](mailto://max@manfromth3m0on.xyz)
 <!--
 **manfromth3m0oN/manfromth3m0on** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
