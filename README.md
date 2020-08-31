@@ -2,7 +2,7 @@
 
 I'm Max, a student developer from Sussex UK.
 
-My most compitent langage is python but im also learning:
+My most competent langage is python but im also learning:
 * Golang
 * Rust
 * C
