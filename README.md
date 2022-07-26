@@ -1,24 +1,10 @@
 ### Hi there
 
-I'm Max, a student developer from Sussex UK.
+I'm Max, an apprentice software engieer from the UK.
 
-My most competent langage is python but im also learning:
-* Golang
+My most competent langage is Golang but im also learning:
 * Rust
+* Zig
 * C
 
-You can find my blog at [manfromth3m0on.xyz](https://manfromth3m0on.xyz) or email me [here](mailto://max@manfromth3m0on.xyz)
-<!--
-**manfromth3m0oN/manfromth3m0on** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+You can find my blog at [m0on.xyz](https://m0on.xyz) or email me [here](mailto://max@m0on.xyz)
