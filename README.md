@@ -7,4 +7,4 @@ My most competent langage is Golang but im also learning:
 * Zig
 * C
 
-You can find my blog at [m0on.xyz](https://m0on.xyz) or email me [here](mailto://max@m0on.xyz)
+You can find my blog at [m0on.xyz](https://m0on.dev) or email me [here](mailto://max@m0on.xyz)
