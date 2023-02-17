@@ -1,10 +1,10 @@
 ### Hi there
 
-I'm Max, an apprentice software engieer from the UK.
+I'm Max, a software engineer at American Express from the UK.
 
-My most competent langage is Golang but im also learning:
+My most competent langage is Go but im also learning:
 * Rust
 * Zig
 * C
 
-You can find my blog at [m0on.xyz](https://m0on.dev) or email me [here](mailto://max@m0on.xyz)
+You can find my blog at [m0on.dev](https://m0on.dev)
